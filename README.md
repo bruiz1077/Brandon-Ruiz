@@ -1,5 +1,6 @@
 # Brandon Ruiz Read Me
-
+# Hi, I'm Brandon Ruiz 👋  
+Business Systems Analyst | Data & Operations | 
 # Hi, I'm Brandon Ruiz 👋  
 Business Systems Analyst | Data & Operations | 
 
