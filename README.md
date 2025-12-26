@@ -1,7 +1,9 @@
 # Brandon Ruiz Read Me
 
+
 # Hi, I'm Brandon Ruiz 👋  
 Business Systems Analyst | Data & Operations 
+
 
 I’m a detail‑oriented analyst with experience in data validation, QA testing, systems analysis, and BI reporting. I enjoy solving operational problems, building clean data workflows, and creating tools that make processes faster and more reliable. Currently expanding my skills in Python, SQL, and cybersecurity to support mission‑driven teams in tech.
 
