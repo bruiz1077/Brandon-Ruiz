@@ -1,4 +1,4 @@
-# Brandon-Ruiz
+# Brandon Ruiz Read Me
 
 # Hi, I'm Brandon Ruiz 👋  
 Business Systems Analyst | Data & Operations | Cybersecurity Enthusiast
@@ -9,9 +9,9 @@ I’m a detail‑oriented analyst with experience in data validation, QA testing
 
 ## 🔧 Technical Skills
 - **Languages:** Python, SQL  
-- **Analytics & BI:** Excel, Tableau, Data Modeling, KPI Dashboards  
+- **Analytics & BI:** Excel, Tableau, Data Modeling
 - **Systems & QA:** Test Case Design, Data Validation, Root Cause Analysis  
-- **Tools:** Jira, Oracle SQL, Git, VS Code  
+- **Tools:** Jira, SQL, Git, VS Code  
 - **Other:** Bilingual (English & Spanish), Technical Communication
 
 ---
